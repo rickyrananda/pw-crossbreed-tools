@@ -127,7 +127,7 @@ export default function Sidebar({
         {/* Quantity */}
         <div className="flex items-center gap-3 ">
           <label className="text-white/40 text-xs font-mono uppercase tracking-widest whitespace-nowrap">QTY</label>
-          <div className="flex items-center gap-2 flex-1">
+          <div className="flex items-center gap-2 flex-1 min-w-0">
             <button
               onClick={() => setQty(Math.max(1, qty - 1))}
               className="w-7 h-7 rounded border border-white/10 text-white/50 hover:border-white/30 hover:text-white flex items-center justify-center text-sm transition-all"
@@ -137,7 +137,7 @@ export default function Sidebar({
               min={1}
               value={qty}
               onChange={(e) => setQty(Math.max(1, parseInt(e.target.value) || 1))}
-              className="flex-1 bg-white/5 border border-white/10 rounded text-center text-sm font-mono text-white focus:outline-none focus:border-white/30 py-1"
+              className="flex-1 min-w-0 bg-white/5 border border-white/10 rounded text-center text-sm font-mono text-white focus:outline-none focus:border-white/30 py-1"
               style={{ MozAppearance: 'textfield' } as React.CSSProperties}
               onWheel={(e) => e.currentTarget.blur()}
             />
