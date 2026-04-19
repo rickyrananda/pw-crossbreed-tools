@@ -34,12 +34,13 @@ export function flattenIngredients(
   node: IngredientNode,
   qty: number,
   recipeMap: Map<string, Recipe>,
-  acc: Map<string, FlatIngredient> = new Map()
+  acc: Map<string, FlatIngredient> = new Map(),
+  isRoot: boolean = true
 ): Map<string, FlatIngredient> {
   const totalQty = node.qty * qty
 
   // Stop recursing if base material OR farmable — treat as a collecting point
-  if (node.ingredients.length === 0 || node.farmable) {
+  if (!isRoot && (node.ingredients.length === 0 || node.farmable)) {
     const existing = acc.get(node.name)
     if (existing) {
       existing.qty += totalQty
