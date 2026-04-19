@@ -39,8 +39,41 @@ export function flattenIngredients(
 ): Map<string, FlatIngredient> {
   const totalQty = node.qty * qty
 
-  // Stop recursing if base material OR farmable — treat as a collecting point
-  if (!isRoot && (node.ingredients.length === 0 || node.farmable)) {
+  // Always recurse into the root regardless of farmable status
+  if (!isRoot) {
+    // Stop here if farmable or has no further ingredients
+    if (node.farmable || node.ingredients.length === 0) {
+      const existing = acc.get(node.name)
+      if (existing) {
+        existing.qty += totalQty
+      } else {
+        acc.set(node.name, {
+          name: node.name,
+          qty: totalQty,
+          tier: node.tier,
+          image: node.image,
+          farmable: node.farmable,
+        })
+      }
+      return acc
+    }
+  }
+
+  for (const child of node.ingredients) {
+    flattenIngredients(child, totalQty, recipeMap, acc, false)
+  }
+
+  return acc
+}
+
+export function flattenToBottom(
+  node: IngredientNode,
+  qty: number,
+  acc: Map<string, FlatIngredient> = new Map()
+): Map<string, FlatIngredient> {
+  const totalQty = node.qty * qty
+
+  if (node.ingredients.length === 0) {
     const existing = acc.get(node.name)
     if (existing) {
       existing.qty += totalQty
@@ -57,7 +90,7 @@ export function flattenIngredients(
   }
 
   for (const child of node.ingredients) {
-    flattenIngredients(child, totalQty, recipeMap, acc)
+    flattenToBottom(child, totalQty, acc)
   }
 
   return acc

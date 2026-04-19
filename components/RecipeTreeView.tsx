@@ -7,6 +7,7 @@ interface Props {
   tree: IngredientNode
   qty: number
   flatIngredients: FlatIngredient[]
+  bottomIngredients: FlatIngredient[]
   selected: Recipe
 }
 
@@ -118,7 +119,7 @@ function TreeNode({ node, qty, depth = 0, isLast = true }: {
   )
 }
 
-export default function RecipeTreeView({ tree, qty, flatIngredients, selected }: Props) {
+export default function RecipeTreeView({ tree, qty, flatIngredients, bottomIngredients, selected }: Props) {
 
   return (
     <div className="p-6 max-w-5xl mx-auto space-y-10">
@@ -156,7 +157,14 @@ export default function RecipeTreeView({ tree, qty, flatIngredients, selected }:
 
         {(() => {
           const tier1 = flatIngredients.filter(i => i.tier === 1)
-          const farmableUpper = flatIngredients.filter(i => i.tier > 1 && i.farmable)
+          const farmableUpper = flatIngredients.filter(i => i.tier > 1 && i.farmable && i.name !== selected.name)
+          const tier1FromFarmable = flatIngredients.filter(i => i.tier === 1)
+
+          const farmableNames = new Set(farmableUpper.map(i => i.name))
+          const bottomOnly = bottomIngredients.filter(i =>
+            !farmableNames.has(i.name) && i.tier === 1
+          )
+          const showBottom = bottomOnly.length > 0
 
           console.log('flatIngredients:', JSON.stringify(flatIngredients.map(i => ({
             name: i.name,
@@ -197,17 +205,18 @@ export default function RecipeTreeView({ tree, qty, flatIngredients, selected }:
                 </div>
               )}
 
+
               {/* Tier 1 base materials */}
               {tier1.length > 0 && (
                 <div>
                   <div className="flex items-center gap-2 mb-3">
-                    <div className="w-1.5 h-1.5 rounded-full" style={{ background: TIER_COLORS[1] }} />
-                    <span className="text-white/30 text-xs font-mono uppercase tracking-widest">Base Materials — Tier 1</span>
+                    <div className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
+                    <span className="text-emerald-400/70 text-xs font-mono uppercase tracking-widest">You Also Need This Base Materials — Tier 1</span>
                     <div className="flex-1 h-px bg-white/5" />
                   </div>
                   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
                     {tier1.sort((a, b) => b.qty - a.qty).map((ing) => (
-                      <div key={ing.name} className="flex items-center gap-3 bg-white/[0.03] border border-white/8 rounded-lg px-3 py-2.5">
+                      <div key={ing.name} className="flex items-center gap-3 bg-white/[0.03] border border-emerald-400/20 rounded-lg px-3 py-2.5">
                         <div className="w-8 h-8 flex items-center justify-center flex-shrink-0">
                           {ing.image ? (
                             <img src={`/api/img?url=${encodeURIComponent(ing.image)}`} alt={ing.name} className="w-full h-full object-contain" style={{ imageRendering: 'pixelated' }} onError={(e) => { (e.target as HTMLImageElement).style.opacity = '0' }} />
@@ -227,6 +236,37 @@ export default function RecipeTreeView({ tree, qty, flatIngredients, selected }:
                   </div>
                 </div>
               )}
+
+              {showBottom && (
+                <div>
+                  <div className="flex items-center gap-2 mb-3">
+                    <div className="w-1.5 h-1.5 rounded-full bg-red-400" />
+                    <span className="text-red-400/70 text-xs font-mono uppercase tracking-widest">Or Just Start From The Bottom</span>
+                    <div className="flex-1 h-px bg-white/5" />
+                  </div>
+                  <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+                    {bottomOnly.sort((a, b) => b.qty - a.qty).map((ing) => (
+                      <div key={ing.name} className="flex items-center gap-3 bg-white/[0.03] border border-red-400/20 rounded-lg px-3 py-2.5">
+                        <div className="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                          {ing.image ? (
+                            <img src={`/api/img?url=${encodeURIComponent(ing.image)}`} alt={ing.name} className="w-full h-full object-contain" style={{ imageRendering: 'pixelated' }} onError={(e) => { (e.target as HTMLImageElement).style.opacity = '0' }} />
+                          ) : (
+                            <div className="w-6 h-6 rounded bg-white/5" />
+                          )}
+                        </div>
+                        <div className="flex-1 min-w-0">
+                          <p className="text-white/70 text-xs leading-tight truncate">{ing.name}</p>
+                          <div className="flex items-center gap-1.5 mt-0.5">
+                            <span className="text-white font-mono text-sm font-semibold">×{ing.qty}</span>
+                            {ing.farmable && <span className="text-emerald-400/50 text-xs font-mono">farm</span>}
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
             </div>
           )
         })()}

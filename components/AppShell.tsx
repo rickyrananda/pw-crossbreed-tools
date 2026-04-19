@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react'
 import { Recipe } from '@/types'
-import { buildTree, calcAllIngredients } from '@/lib/recipeUtils'
+import { buildTree, calcAllIngredients, flattenToBottom } from '@/lib/recipeUtils'
 import Sidebar from './Sidebar'
 import AllItemsView from './AllItemsView'
 import RecipeTreeView from './RecipeTreeView'
@@ -49,6 +49,13 @@ export default function AppShell({ recipes }: Props) {
     return calcAllIngredients(selected.name, qty, recipeMap)
   }, [selected, showTree, qty, recipeMap])
 
+  const bottomIngredients = useMemo(() => {
+    if (!selected || !showTree) return []
+    const tree = buildTree(selected.name, 1, recipeMap)
+    const flat = flattenToBottom(tree, qty)
+    return Array.from(flat.values()).sort((a, b) => a.tier - b.tier)
+  }, [selected, showTree, qty, recipeMap])
+
   const handleCalculate = () => {
     if (!selected) return
     setShowTree(true)
@@ -90,6 +97,7 @@ export default function AppShell({ recipes }: Props) {
             tree={tree}
             qty={qty}
             flatIngredients={flatIngredients}
+            bottomIngredients={bottomIngredients}
             selected={selected}
           />
         ) : (
