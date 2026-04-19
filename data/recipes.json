@@ -1,0 +1,5756 @@
+[
+    {
+        "name": "Cave Wall",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/95/Cave_Wall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Fluff",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c4/Fluff.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Gem Soil",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4b/Gem_Soil.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Golden Cask",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/23/Golden_Cask.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Granite",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4a/Granite.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Lava",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/27/Lava.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Marble",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/82/Marble.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Obsidian",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/23/Obsidian.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Sand",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a7/Sand.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Sandstone",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d6/Sandstone.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Sandy Cave Wall",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6c/Sandy_Cave_Wall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Soil Block",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b6/Soil_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Water",
+        "tier": 1,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9d/Water.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Black Brick",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f9/Black_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Black T-shirt",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/35/Black_T-shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Granite",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Clear Water",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ee/Clear_Water.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Water"
+        ]
+    },
+    {
+        "name": "Concrete Block 1x1",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7f/Concrete_Block_1x1.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Water",
+            "Sand"
+        ]
+    },
+    {
+        "name": "Glass Block",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e5/Glass_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Sand",
+            "Lava"
+        ]
+    },
+    {
+        "name": "Grass",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Grass.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Green Sneakers",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/21/Green_Sneakers.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Water",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Lava Background",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/40/Lava_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Sandy Cave Wall"
+        ]
+    },
+    {
+        "name": "Magic Stuff",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7e/Magic_Stuff.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Marble",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Metal Plate",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a7/Metal_Plate.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Red Brick",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/be/Red_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Red Tights",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/26/Red_Tights.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Red Wallpaper",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b3/Red_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "Lava"
+        ]
+    },
+    {
+        "name": "Rock Pillar",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6d/Rock_Pillar.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Sandwall",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Sandwall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Sand"
+        ]
+    },
+    {
+        "name": "White Brick",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/17/White_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Wood Block",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/25/Wood_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Yellow Brick",
+        "tier": 2,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/22/Yellow_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Sandstone"
+        ]
+    },
+    {
+        "name": "Beige Stetson",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/78/Beige_Stetson.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sandy Cave Wall",
+            "Yellow Brick"
+        ]
+    },
+    {
+        "name": "Black Block",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Black_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Brick",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Black Diagonal Checker",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f4/Black_Diagonal_Checker.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x1",
+            "Black Brick"
+        ]
+    },
+    {
+        "name": "Black Tights",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/32/Black_Tights.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Brick",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Blue Block",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1e/Blue_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Brick",
+            "Yellow Brick"
+        ]
+    },
+    {
+        "name": "Blue Diagonal Checker",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/43/Blue_Diagonal_Checker.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x1",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Brown Shoes",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/05/Brown_Shoes.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Camo Pants",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c9/Camo_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Soil Block",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Concrete Block 1x2",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cd/Concrete_Block_1x2.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x1",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Door",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/36/Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Green Tank Top",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1f/Green_Tank_Top.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Green Tile",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/66/Green_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Grey Brick",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c6/Grey_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Brick",
+            "White Brick"
+        ]
+    },
+    {
+        "name": "Grey Slouchy Beanie",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9c/Grey_Slouchy_Beanie.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Plate",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Grey T-shirt",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/87/Grey_T-shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Brick",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Jungle Grass",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/54/Jungle_Grass.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Lava Lamp",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/96/Lava_Lamp.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Glass Block"
+        ]
+    },
+    {
+        "name": "Lily",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0a/Lily.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "White Brick"
+        ]
+    },
+    {
+        "name": "Mushroom",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8c/Mushroom.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Oil",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/06/Oil.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Old Brick Pile",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1b/Old_Brick_Pile.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Brick",
+            "Yellow Brick"
+        ]
+    },
+    {
+        "name": "Red Block",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a7/Red_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Brick",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Red Diagonal Checker",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/04/Red_Diagonal_Checker.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x1",
+            "Red Brick"
+        ]
+    },
+    {
+        "name": "Red Headscarf",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f9/Red_Headscarf.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Wallpaper",
+            "Lava"
+        ]
+    },
+    {
+        "name": "Red Pigtail",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0b/Red_Pigtail.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Lava"
+        ]
+    },
+    {
+        "name": "Red Skirt",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/19/Red_Skirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Wallpaper",
+            "White Brick"
+        ]
+    },
+    {
+        "name": "Rose",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4f/Rose.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Sign",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5d/Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Red Brick"
+        ]
+    },
+    {
+        "name": "Small Bush",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Small_Bush.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Stone Background",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d7/Stone_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Wallpaper",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Sunflower",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/81/Sunflower.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Yellow Brick"
+        ]
+    },
+    {
+        "name": "Sunglasses",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/92/Sunglasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Obsidian",
+            "Glass Block"
+        ]
+    },
+    {
+        "name": "Sweat Pants",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ea/Sweat_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Torch",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b2/Torch.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Lava"
+        ]
+    },
+    {
+        "name": "White Block",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a6/White_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "White Brick",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Wood Panel",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/02/Wood_Panel.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Red Wallpaper"
+        ]
+    },
+    {
+        "name": "Wood Wall",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Wood_Wall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Wooden Fence",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6f/Wooden_Fence.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Wooden Platform",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bf/Wooden_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Wooden Sword",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cd/Wooden_Sword.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Wood Block"
+        ]
+    },
+    {
+        "name": "Yellow Block",
+        "tier": 3,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1b/Yellow_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Brick",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Ashen Soil",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/42/Ashen_Soil.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Black Beard",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/09/Black_Beard.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Black Block"
+        ]
+    },
+    {
+        "name": "Black Headscarf",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e1/Black_Headscarf.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Black Jacket",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7e/Black_Jacket.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "Black Block"
+        ]
+    },
+    {
+        "name": "Black Tank Top",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/65/Black_Tank_Top.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Stone Background",
+            "Black Brick"
+        ]
+    },
+    {
+        "name": "Black Tile",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/75/Black_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Block",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Blonde Ponytail",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c6/Blonde_Ponytail.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Brick",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Blonde Spiky Hair",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5b/Blonde_Spiky_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava Lamp",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Blue Tank Top",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ae/Blue_Tank_Top.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Bush",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a1/Bush.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Bush",
+            "Jungle Grass"
+        ]
+    },
+    {
+        "name": "Classic Painting",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ac/Classic_Painting.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rose",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Clear Jelly",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e4/Clear_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Lava Lamp"
+        ]
+    },
+    {
+        "name": "Concrete Block 2x2",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e7/Concrete_Block_2x2.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x1",
+            "Concrete Block 1x2"
+        ]
+    },
+    {
+        "name": "Concrete Platform",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e8/Concrete_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 1x2",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Corn",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f8/Corn.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Sunflower",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Fireplace",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/53/Fireplace.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Flower Wallpaper",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4b/Flower_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Red Wallpaper"
+        ]
+    },
+    {
+        "name": "Green Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7b/Green_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Grey Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d5/Grey_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Block",
+            "White Block"
+        ]
+    },
+    {
+        "name": "Iron Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c1/Iron_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "White Block",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Lantern",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Lantern.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Glass Block"
+        ]
+    },
+    {
+        "name": "Leaning Planks",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d5/Leaning_Planks.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Fence",
+            "Magic Stuff"
+        ]
+    },
+    {
+        "name": "Light Blue Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ea/Light_Blue_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "White Block"
+        ]
+    },
+    {
+        "name": "Long Blue Dress",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e8/Long_Blue_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Long Orange Hair",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/30/Long_Orange_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Sunflower"
+        ]
+    },
+    {
+        "name": "Long Purple Hair",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/04/Long_Purple_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Metal Background 1",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/32/Metal_Background_1.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Diagonal Checker",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Metal Background 2",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fe/Metal_Background_2.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Diagonal Checker",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Mirror",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Mirror.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Door"
+        ]
+    },
+    {
+        "name": "Naphtha",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/49/Naphtha.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Oil",
+            "Lava"
+        ]
+    },
+    {
+        "name": "Non-Slip Metal",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Non-Slip_Metal.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Stone Background",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Orange Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/18/Orange_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Block",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Pebble Stone Pillar",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Pebble_Stone_Pillar.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Rock Pillar",
+            "Old Brick Pile"
+        ]
+    },
+    {
+        "name": "Pineapple Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fc/Pineapple_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Sunflower",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Pink Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a0/Pink_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Block",
+            "White Block"
+        ]
+    },
+    {
+        "name": "Punching Bag",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Punching_Bag.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Sand"
+        ]
+    },
+    {
+        "name": "Purple Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/78/Purple_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Cap",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0f/Red_Cap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Wallpaper",
+            "Rose"
+        ]
+    },
+    {
+        "name": "Red Jeans",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Red_Jeans.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Ponytail",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/96/Red_Ponytail.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Red Skull T-shirt",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/ff/Red_Skull_T-shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sign",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Red Tile",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/28/Red_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Rose",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Rocks",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a6/Rocks.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Brick",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Rubber Duck",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/df/Rubber_Duck.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Sunflower",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Saggy Pants",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bc/Saggy_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rose",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Shovel",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/77/Shovel.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Fence",
+            "Wood Panel"
+        ]
+    },
+    {
+        "name": "Shovel in Sand",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3f/Shovel_in_Sand.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sign",
+            "Sand"
+        ]
+    },
+    {
+        "name": "Small Chest",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/02/Small_Chest.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Block",
+            "Door"
+        ]
+    },
+    {
+        "name": "Stetson Hat",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4a/Stetson_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sign",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Toilet Seat",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/dc/Toilet_Seat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Block",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Traffic Cone",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/04/Traffic_Cone.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Tree Trunk Block",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c9/Tree_Trunk_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gem Soil",
+            "Wooden Fence"
+        ]
+    },
+    {
+        "name": "Uggie Boots",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/68/Uggie_Boots.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sunflower",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "VIP Sign",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f7/VIP_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava Lamp",
+            "Glass Block"
+        ]
+    },
+    {
+        "name": "Vine",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/ff/Vine.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Jungle Grass",
+            "Grass"
+        ]
+    },
+    {
+        "name": "White Ballerina Shoes",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/88/White_Ballerina_Shoes.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Door"
+        ]
+    },
+    {
+        "name": "White Buzzcut",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8a/White_Buzzcut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava",
+            "Lily"
+        ]
+    },
+    {
+        "name": "White Glasses",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/34/White_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Sign",
+            "White Block"
+        ]
+    },
+    {
+        "name": "White Sweater",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/dd/White_Sweater.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cave Wall",
+            "White Block"
+        ]
+    },
+    {
+        "name": "White Tights",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/91/White_Tights.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "White Block"
+        ]
+    },
+    {
+        "name": "White Tile",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b1/White_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Windowframe",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/66/Windowframe.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Wood Panel"
+        ]
+    },
+    {
+        "name": "Wooden Background",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fb/Wooden_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Wall",
+            "Red Wallpaper"
+        ]
+    },
+    {
+        "name": "Wooden Beam Background",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f9/Wooden_Beam_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wood Panel",
+            "Door"
+        ]
+    },
+    {
+        "name": "Wooden Chair",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/87/Wooden_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Platform",
+            "Door"
+        ]
+    },
+    {
+        "name": "Wooden Shelf",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/54/Wooden_Shelf.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Fence",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Wooden Table",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f4/Wooden_Table.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Platform",
+            "Black Block"
+        ]
+    },
+    {
+        "name": "Wooden Window Frame",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/34/Wooden_Window_Frame.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Yellow Rubber Boots",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d0/Yellow_Rubber_Boots.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Block",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Yellow Skirt",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/28/Yellow_Skirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Sunflower"
+        ]
+    },
+    {
+        "name": "Yellow Tile",
+        "tier": 4,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e2/Yellow_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Sunflower",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Analog Wall Clock",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2b/Analog_Wall_Clock.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mirror",
+            "Lava Lamp"
+        ]
+    },
+    {
+        "name": "Antique Chair",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/63/Antique_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "Wooden Chair"
+        ]
+    },
+    {
+        "name": "Antique Table",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b3/Antique_Table.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Armchair",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8a/Armchair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Chair",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Bathtub",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5a/Bathtub.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Water"
+        ]
+    },
+    {
+        "name": "Beige Brick",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/76/Beige_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Tile",
+            "White Brick"
+        ]
+    },
+    {
+        "name": "Black Ballerina Shoes",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/26/Black_Ballerina_Shoes.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Black Metal Sheet",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/39/Black_Metal_Sheet.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Black Brick"
+        ]
+    },
+    {
+        "name": "Blue Cap",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/37/Blue_Cap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Block",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Blue Lantern",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/30/Blue_Lantern.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Neon Background",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d6/Blue_Neon_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Skull Shirt",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/64/Blue_Skull_Shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fireplace",
+            "Light Blue Block"
+        ]
+    },
+    {
+        "name": "Brown Block",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7c/Brown_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Purple Block",
+            "Orange Block"
+        ]
+    },
+    {
+        "name": "Brown Buzzcut",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/be/Brown_Buzzcut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Stone Background"
+        ]
+    },
+    {
+        "name": "Cabinet",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/82/Cabinet.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Cargo Pants",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/be/Cargo_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Wooden Chair"
+        ]
+    },
+    {
+        "name": "Carnival Mask",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/23/Carnival_Mask.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava Lamp",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Clay Pot",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4f/Clay_Pot.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Rose"
+        ]
+    },
+    {
+        "name": "Construction Barricade",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d4/Construction_Barricade.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Block",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Dirty Herringbone",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/10/Dirty_Herringbone.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Diagonal Checker",
+            "Orange Block"
+        ]
+    },
+    {
+        "name": "Floor Lamp",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cd/Floor_Lamp.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "For Sale Sign",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/df/For_Sale_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Tile",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Fruit Tray",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7b/Fruit_Tray.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Garden Gnome",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/99/Garden_Gnome.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Stone Background"
+        ]
+    },
+    {
+        "name": "Glass Door",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/06/Glass_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Windowframe",
+            "Door"
+        ]
+    },
+    {
+        "name": "Glass Pot",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/af/Glass_Pot.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Glass Tile",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/23/Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Windowframe",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Green Cap",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/84/Green_Cap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Block",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Green Lantern",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7d/Green_Lantern.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Green Neon Background",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/84/Green_Neon_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Green Skirt",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/32/Green_Skirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Block",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Green Wool Cap",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cf/Green_Wool_Cap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Corn",
+            "Lantern"
+        ]
+    },
+    {
+        "name": "Grey Herringbone",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Grey_Herringbone.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Diagonal Checker",
+            "Grey Block"
+        ]
+    },
+    {
+        "name": "Grey Stalactites",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/61/Grey_Stalactites.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Block",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Grey Stalagmites",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cc/Grey_Stalagmites.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Block",
+            "Ashen Soil"
+        ]
+    },
+    {
+        "name": "Honeycomb Background",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6f/Honeycomb_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Vine",
+            "Sunflower"
+        ]
+    },
+    {
+        "name": "Hospital Gown",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0a/Hospital_Gown.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Kiwi Block",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/ce/Kiwi_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Corn",
+            "Purple Block"
+        ]
+    },
+    {
+        "name": "Large Bush",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c0/Large_Bush.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Bush",
+            "Sunflower"
+        ]
+    },
+    {
+        "name": "Large Classic Painting",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/61/Large_Classic_Painting.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Leather Gloves",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/ff/Leather_Gloves.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Block",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Light Green Maxi Dress",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7e/Light_Green_Maxi_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Flower Wallpaper",
+            "Jungle Grass"
+        ]
+    },
+    {
+        "name": "Light Green Maxi Dress D-cut",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/54/Light_Green_Maxi_Dress_D-cut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Block",
+            "Jungle Grass"
+        ]
+    },
+    {
+        "name": "Loafers",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5a/Loafers.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Stone Background",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Lob Brown Hair",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f3/Lob_Brown_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torch",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Long Blue Dress D-cut",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b5/Long_Blue_Dress_D-cut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "Light Blue Block"
+        ]
+    },
+    {
+        "name": "Long Coat",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2a/Long_Coat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Black Block"
+        ]
+    },
+    {
+        "name": "Long Curly Brown Hair",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c0/Long_Curly_Brown_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Metal Background 3",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/10/Metal_Background_3.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Background 1",
+            "Metal Background 2"
+        ]
+    },
+    {
+        "name": "Moustache",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0a/Moustache.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Nerdy Glasses",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1f/Nerdy_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Nurse Hat",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/36/Nurse_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Flower Wallpaper",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Old TV",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cb/Old_TV.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "One Piece",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8d/One_Piece.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lava Lamp",
+            "Rubber Duck"
+        ]
+    },
+    {
+        "name": "Orange Blouse",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/00/Orange_Blouse.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Flower Wallpaper"
+        ]
+    },
+    {
+        "name": "Orange Neon Background",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0d/Orange_Neon_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Orange Block"
+        ]
+    },
+    {
+        "name": "Orange Tile",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7f/Orange_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Tile",
+            "Yellow Tile"
+        ]
+    },
+    {
+        "name": "Oval Mirror",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/40/Oval_Mirror.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Toilet Seat",
+            "Lava Lamp"
+        ]
+    },
+    {
+        "name": "Oven",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/46/Oven.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Torch"
+        ]
+    },
+    {
+        "name": "Pink Sneakers",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Pink_Sneakers.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pink Block",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Pink Tile",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e9/Pink_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "White Tile",
+            "Red Tile"
+        ]
+    },
+    {
+        "name": "Raincoat",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c6/Raincoat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Red Blouse",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4e/Red_Blouse.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Flower Wallpaper",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Lantern",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a6/Red_Lantern.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Sneakers",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2c/Red_Sneakers.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Shoji",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3a/Shoji.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Door",
+            "Flower Wallpaper"
+        ]
+    },
+    {
+        "name": "Shower",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ae/Shower.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Background 1",
+            "Water"
+        ]
+    },
+    {
+        "name": "Small Rocks",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/75/Small_Rocks.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Rocks",
+            "Stone Background"
+        ]
+    },
+    {
+        "name": "Sour Ground",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c6/Sour_Ground.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Rocks",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Spike Trap",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2c/Spike_Trap.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Pink Block"
+        ]
+    },
+    {
+        "name": "Spiral Mosaic",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/35/Spiral_Mosaic.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Concrete Block 2x2",
+            "Grey Brick"
+        ]
+    },
+    {
+        "name": "Strawberry Block",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/50/Strawberry_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Corn",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Tree Stump",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/77/Tree_Stump.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Wood Block"
+        ]
+    },
+    {
+        "name": "Tree Trunk Wall",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d9/Tree_Trunk_Wall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Tree Trunk Block",
+            "Wood Wall"
+        ]
+    },
+    {
+        "name": "Turquoise Block",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8f/Turquoise_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Block",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "VIP Door",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/64/VIP_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "VIP Sign",
+            "Door"
+        ]
+    },
+    {
+        "name": "Wardrobe",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/15/Wardrobe.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Door"
+        ]
+    },
+    {
+        "name": "White Dress",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/36/White_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lily",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "White Dress Shirt",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/eb/White_Dress_Shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "White Block"
+        ]
+    },
+    {
+        "name": "White Sink",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/63/White_Sink.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Toilet Seat",
+            "Rubber Duck"
+        ]
+    },
+    {
+        "name": "Wire Fence",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7d/Wire_Fence.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Fence",
+            "Lantern"
+        ]
+    },
+    {
+        "name": "Wooden Sign",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/22/Wooden_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Leaning Planks",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Yellow Jelly",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/43/Yellow_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Clear Jelly"
+        ]
+    },
+    {
+        "name": "Yellow Maxi Skirt",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Yellow_Maxi_Skirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Flower Wallpaper",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Yellow Skater Dress",
+        "tier": 5,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/09/Yellow_Skater_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Black Headphones",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fd/Black_Headphones.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Black Leather Pants",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/01/Black_Leather_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Armchair",
+            "Rubber Duck"
+        ]
+    },
+    {
+        "name": "Blood Splash",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/57/Blood_Splash.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Corn"
+        ]
+    },
+    {
+        "name": "Bloody Claw Marks",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/07/Bloody_Claw_Marks.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Garden Gnome"
+        ]
+    },
+    {
+        "name": "Blue Glass Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ab/Blue_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Tile",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Headphones",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3a/Blue_Headphones.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Kiwi Block"
+        ]
+    },
+    {
+        "name": "Blue Jelly",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/65/Blue_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Kiwi Block",
+            "Clear Jelly"
+        ]
+    },
+    {
+        "name": "Blue Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4f/Blue_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Kiwi Block",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Braided Black Hair",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/72/Braided_Black_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Brown Big Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f4/Brown_Big_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Wood Wall"
+        ]
+    },
+    {
+        "name": "Brown Brick Wallpaper",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9b/Brown_Brick_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Shoji",
+            "Brown Block"
+        ]
+    },
+    {
+        "name": "Brown Goatee",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/65/Brown_Goatee.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wire Fence",
+            "Cabinet"
+        ]
+    },
+    {
+        "name": "Brown Paper Bag",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/27/Brown_Paper_Bag.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Brown Ponytail",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b1/Brown_Ponytail.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brown Block",
+            "Corn"
+        ]
+    },
+    {
+        "name": "Brown Sofa",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5f/Brown_Sofa.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Traffic Cone",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "Brown Stalactites",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a5/Brown_Stalactites.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Brown Block",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Brown Stalagmites",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7f/Brown_Stalagmites.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Brown Block",
+            "Ashen Soil"
+        ]
+    },
+    {
+        "name": "Buzzsaw",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/92/Buzzsaw.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Cactus Block",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/16/Cactus_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Pineapple Block"
+        ]
+    },
+    {
+        "name": "Checkpoint",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b6/Checkpoint.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Floor Lamp",
+            "Old TV"
+        ]
+    },
+    {
+        "name": "Classic Sculpture",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5b/Classic_Sculpture.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Garden Gnome",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Clown Hair",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/18/Clown_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Fruit Tray"
+        ]
+    },
+    {
+        "name": "Clown Nose",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b0/Clown_Nose.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Strawberry Block"
+        ]
+    },
+    {
+        "name": "Clown Wallpaper",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4e/Clown_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Garden Gnome",
+            "Flower Wallpaper"
+        ]
+    },
+    {
+        "name": "Display Case",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8b/Display_Case.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Door",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Dotted Pink Block",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/53/Dotted_Pink_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Pink Block"
+        ]
+    },
+    {
+        "name": "Dungeon Door",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ef/Dungeon_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brown Block",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Dungeon Wall",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cc/Dungeon_Wall.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Grey Block"
+        ]
+    },
+    {
+        "name": "Fancy Tinted Glasses",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/94/Fancy_Tinted_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fruit Tray",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Fire Trap",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c2/Fire_Trap.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Oven"
+        ]
+    },
+    {
+        "name": "Footwraps",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/26/Footwraps.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Fungi",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/be/Fungi.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Fruit Tray",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Gold Earrings",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/98/Gold_Earrings.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Tile",
+            "Corn"
+        ]
+    },
+    {
+        "name": "Gramophone",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0e/Gramophone.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Wood Block"
+        ]
+    },
+    {
+        "name": "Green Big Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/db/Green_Big_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Tile",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Green Cape",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/83/Green_Cape.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Block",
+            "Yellow Jelly"
+        ]
+    },
+    {
+        "name": "Green Fedora",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bc/Green_Fedora.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Block",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Green Glass Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/96/Green_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Tile",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Green Jeans",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/ff/Green_Jeans.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Block",
+            "Yellow Jelly"
+        ]
+    },
+    {
+        "name": "Grey Big Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/91/Grey_Big_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Stone Background",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Grey Brick Wallpaper",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Grey_Brick_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Shoji",
+            "Grey Block"
+        ]
+    },
+    {
+        "name": "Grey Dot Illusion",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bd/Grey_Dot_Illusion.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Herringbone",
+            "Lava Lamp"
+        ]
+    },
+    {
+        "name": "Hello-Bot",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8b/Hello-Bot.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Garden Gnome"
+        ]
+    },
+    {
+        "name": "Huge Metal Fan",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1f/Huge_Metal_Fan.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Floor Lamp",
+            "Oven"
+        ]
+    },
+    {
+        "name": "Jean Shorts",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/47/Jean_Shorts.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Block",
+            "Cabinet"
+        ]
+    },
+    {
+        "name": "LED Sign",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/97/LED_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Leopard Armchair",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fc/Leopard_Armchair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fruit Tray",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "Level Door",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7a/Level_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wire Fence",
+            "Door"
+        ]
+    },
+    {
+        "name": "Long Beard",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b6/Long_Beard.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Armchair",
+            "Wood Panel"
+        ]
+    },
+    {
+        "name": "Makeup Table",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/54/Makeup_Table.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cabinet",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Mannequin",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9a/Mannequin.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wardrobe",
+            "Garden Gnome"
+        ]
+    },
+    {
+        "name": "Pink Cap",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f5/Pink_Cap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pink Block",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Portal",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9d/Portal.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Door",
+            "Old TV"
+        ]
+    },
+    {
+        "name": "Purple Jersey",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d5/Purple_Jersey.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Purple Block",
+            "Kiwi Block"
+        ]
+    },
+    {
+        "name": "Red Ballerina Shoes",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/62/Red_Ballerina_Shoes.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Lantern"
+        ]
+    },
+    {
+        "name": "Red Big Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5c/Red_Big_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Red Tile"
+        ]
+    },
+    {
+        "name": "Red Brick Wallpaper",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/56/Red_Brick_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Red Glass Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f8/Red_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Tile",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Headphones",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/86/Red_Headphones.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Strawberry Block"
+        ]
+    },
+    {
+        "name": "Red Jelly",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9f/Red_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Clear Jelly"
+        ]
+    },
+    {
+        "name": "Round Metal Table",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/39/Round_Metal_Table.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Door",
+            "Wooden Table"
+        ]
+    },
+    {
+        "name": "Ruin Tile Background",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e0/Ruin_Tile_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Sandstone"
+        ]
+    },
+    {
+        "name": "Ski Mask",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/eb/Ski_Mask.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Block",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Sliced Watermelon Block",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/01/Sliced_Watermelon_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Black Metal Sheet"
+        ]
+    },
+    {
+        "name": "Spiky Black Hair",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/21/Spiky_Black_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Spike Trap",
+            "Fruit Tray"
+        ]
+    },
+    {
+        "name": "Suede Jacket",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3a/Suede_Jacket.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brown Block",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Tall Grass",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/01/Tall_Grass.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Large Bush",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Telescope",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6c/Telescope.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Mirror"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/31/Tiger_Tail.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Garden Gnome"
+        ]
+    },
+    {
+        "name": "Tree Trunk",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ac/Tree_Trunk.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Tree Stump",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Vegetation Block",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/57/Vegetation_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Hanging Leaves",
+            "Bush"
+        ]
+    },
+    {
+        "name": "Violet Neon Background",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9c/Violet_Neon_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Neon Background",
+            "Blue Neon Background"
+        ]
+    },
+    {
+        "name": "Washing Machine",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/88/Washing_Machine.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bathtub",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "White Armchair",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a0/White_Armchair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Tile",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "White Dress D-cut",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5d/White_Dress_D-cut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Tile",
+            "Lily"
+        ]
+    },
+    {
+        "name": "White Gloves",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c3/White_Gloves.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Armchair",
+            "White Block"
+        ]
+    },
+    {
+        "name": "Wooden Barrel",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3a/Wooden_Barrel.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Wood Block"
+        ]
+    },
+    {
+        "name": "Wooden Switchable Sign",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8d/Wooden_Switchable_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Sign",
+            "Analog Wall Clock"
+        ]
+    },
+    {
+        "name": "Yard Lamp",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/16/Yard_Lamp.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Garden Gnome",
+            "Floor Lamp"
+        ]
+    },
+    {
+        "name": "Yellow Brick Wallpaper",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e2/Yellow_Brick_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Shoji",
+            "Pineapple Block"
+        ]
+    },
+    {
+        "name": "Yellow Crox",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/21/Yellow_Crox.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rubber Duck",
+            "Yellow Jelly"
+        ]
+    },
+    {
+        "name": "Yellow Glass Tile",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/48/Yellow_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Tile",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Yellow Skater Dress D-cut",
+        "tier": 6,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/94/Yellow_Skater_Dress_D-cut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Yellow Jelly"
+        ]
+    },
+    {
+        "name": "Basic Glasses",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/08/Basic_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Black Tile",
+            "Glass Tile"
+        ]
+    },
+    {
+        "name": "Battle Scoreboard",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/72/Battle_Scoreboard.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "LED Sign",
+            "Red Wallpaper"
+        ]
+    },
+    {
+        "name": "Bed",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Bed.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Jelly",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "Black Goatee Beard",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ee/Black_Goatee_Beard.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wire Fence",
+            "Huge Metal Fan"
+        ]
+    },
+    {
+        "name": "Black Jewel Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ef/Black_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Black Block"
+        ]
+    },
+    {
+        "name": "Blue Beanie",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bd/Blue_Beanie.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Magic Stuff",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Blue Big Tile",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/eb/Blue_Big_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Tile",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Blue Brick",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b6/Blue_Brick.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Tile",
+            "White Brick"
+        ]
+    },
+    {
+        "name": "Blue Camo Pants",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fc/Blue_Camo_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Leopard Armchair",
+            "Light Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Glow Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d7/Blue_Glow_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yard Lamp",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Hair",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0f/Blue_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Jelly",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Blue Jewel Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f9/Blue_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Blue Block"
+        ]
+    },
+    {
+        "name": "Blue Raincoat",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e6/Blue_Raincoat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Kiwi Block",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Bookshelf",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f7/Bookshelf.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cabinet",
+            "Yellow Brick Wallpaper"
+        ]
+    },
+    {
+        "name": "Brazier",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b0/Brazier.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fire Trap",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Cheese Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d5/Cheese_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Barrel",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Circuit Board",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a7/Circuit_Board.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "LED Sign",
+            "Oven"
+        ]
+    },
+    {
+        "name": "Clownsuit",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d0/Clownsuit.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clown Wallpaper",
+            "Fruit Tray"
+        ]
+    },
+    {
+        "name": "Cubist Painting",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5f/Cubist_Painting.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Makeup Table",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Cyan Jewel Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ea/Cyan_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Light Blue Block"
+        ]
+    },
+    {
+        "name": "Dirty Wall 1",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/89/Dirty_Wall_1.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Fungi",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Dirty Wall 2",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c7/Dirty_Wall_2.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Extra Tall Grass",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a9/Extra_Tall_Grass.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grass",
+            "Tall Grass"
+        ]
+    },
+    {
+        "name": "Eyepatch",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b7/Eyepatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dotted Pink Block",
+            "Spike Trap"
+        ]
+    },
+    {
+        "name": "Fishbowl",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f8/Fishbowl.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Portal",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Flash Shirt",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/54/Flash_Shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Fire Trap"
+        ]
+    },
+    {
+        "name": "Fountain",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/89/Fountain.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Sculpture",
+            "Water"
+        ]
+    },
+    {
+        "name": "Gargoyle",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/44/Gargoyle.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Huge Metal Fan",
+            "Garden Gnome"
+        ]
+    },
+    {
+        "name": "Gravestone",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/01/Gravestone.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Door",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Green Glow Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c9/Green_Glow_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yard Lamp",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Green Jelly",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6e/Green_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Jelly",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Green Screen",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c4/Green_Screen.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "LED Sign",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Green Spheres Background",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a2/Green_Spheres_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Big Tile",
+            "Dotted Pink Block"
+        ]
+    },
+    {
+        "name": "Grey Hoodie",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/50/Grey_Hoodie.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Wall",
+            "Grey Block"
+        ]
+    },
+    {
+        "name": "Grey Spheres Background",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/af/Grey_Spheres_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Big Tile",
+            "Dotted Pink Block"
+        ]
+    },
+    {
+        "name": "Hanging Leaves",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/83/Hanging_Leaves.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Tall Grass",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Hard Hat",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/08/Hard_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Brick Wallpaper",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Hazard Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/11/Hazard_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Dot Illusion",
+            "Torch"
+        ]
+    },
+    {
+        "name": "Heart Shirt",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/62/Heart_Shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Strawberry Block",
+            "Portal"
+        ]
+    },
+    {
+        "name": "Heavy Metal Hair",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/ae/Heavy_Metal_Hair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "House Plant",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6e/House_Plant.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cactus Block",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Ice",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/77/Ice.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Fire Trap",
+            "Water"
+        ]
+    },
+    {
+        "name": "Imperial Wallpaper",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/33/Imperial_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Leopard Armchair",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Jail Background",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d7/Jail_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Wire Fence",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Jungle Plant",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3b/Jungle_Plant.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Jungle Grass",
+            "Tall Grass"
+        ]
+    },
+    {
+        "name": "Large Diagonal Tiles",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4b/Large_Diagonal_Tiles.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Brick Wallpaper",
+            "Black Diagonal Checker"
+        ]
+    },
+    {
+        "name": "Level VIP Door",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/44/Level_VIP_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Level Door",
+            "VIP Door"
+        ]
+    },
+    {
+        "name": "Light Blue Jelly",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/ca/Light_Blue_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Clear Jelly",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Light Blue Shoes",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/06/Light_Blue_Shoes.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Jelly",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Light Blue Skater Dress",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/13/Light_Blue_Skater_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "White Block",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Light Glasses",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6b/Light_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Huge Metal Fan",
+            "Glass Door"
+        ]
+    },
+    {
+        "name": "Light Wooden Background",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d3/Light_Wooden_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Shoji",
+            "Red Jelly"
+        ]
+    },
+    {
+        "name": "Metal Barrel",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/14/Metal_Barrel.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Barrel",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Metal Platform",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/48/Metal_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Fire Trap",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Microwave",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6b/Microwave.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Portal",
+            "Oven"
+        ]
+    },
+    {
+        "name": "Mime Mask",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/df/Mime_Mask.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gramophone",
+            "Clown Wallpaper"
+        ]
+    },
+    {
+        "name": "Modern Painting",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/df/Modern_Painting.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clown Wallpaper",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Monocle",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/00/Monocle.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Gramophone"
+        ]
+    },
+    {
+        "name": "Note Board",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/60/Note_Board.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Door",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Old Wall Lamp",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/22/Old_Wall_Lamp.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Lantern",
+            "Wooden Barrel"
+        ]
+    },
+    {
+        "name": "Orange Glow Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a8/Orange_Glow_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yard Lamp",
+            "Orange Block"
+        ]
+    },
+    {
+        "name": "Orange Jelly",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fc/Orange_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Jelly",
+            "Red Jelly"
+        ]
+    },
+    {
+        "name": "Pink Dress",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c0/Pink_Dress.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rose",
+            "Dotted Pink Block"
+        ]
+    },
+    {
+        "name": "Pink Jelly",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d6/Pink_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Jelly",
+            "Clear Jelly"
+        ]
+    },
+    {
+        "name": "Purple Glass Tile",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e2/Purple_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Glass Tile",
+            "Blue Glass Tile"
+        ]
+    },
+    {
+        "name": "Purple Jelly",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/59/Purple_Jelly.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Jelly",
+            "Blue Jelly"
+        ]
+    },
+    {
+        "name": "Purple Tile",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7f/Purple_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Tile",
+            "Blue Tile"
+        ]
+    },
+    {
+        "name": "Red Bucket",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a2/Red_Bucket.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Mushroom",
+            "Wooden Barrel"
+        ]
+    },
+    {
+        "name": "Red Fedora",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c2/Red_Fedora.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Red Jelly"
+        ]
+    },
+    {
+        "name": "Red Glow Block",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2b/Red_Glow_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yard Lamp",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Red Jello Platform",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3b/Red_Jello_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Jelly",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Red Spheres Background",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/90/Red_Spheres_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Big Tile",
+            "Dotted Pink Block"
+        ]
+    },
+    {
+        "name": "Round Moire",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cb/Round_Moire.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Toilet Seat",
+            "Grey Dot Illusion"
+        ]
+    },
+    {
+        "name": "Ruin Tiles",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d6/Ruin_Tiles.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Beige Brick",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Short Sword",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/ca/Short_Sword.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Huge Metal Fan",
+            "Fire Trap"
+        ]
+    },
+    {
+        "name": "Starry Wallpaper",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/cd/Starry_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Wall",
+            "Clown Wallpaper"
+        ]
+    },
+    {
+        "name": "Studded Metal",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1f/Studded_Metal.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Background 3",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Tinted Glass Door",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d0/Tinted_Glass_Door.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Door",
+            "Glass Door"
+        ]
+    },
+    {
+        "name": "Tinted Window Frame",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f2/Tinted_Window_Frame.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Wall",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Torn Wallpaper",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/94/Torn_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Wall",
+            "Red Wallpaper"
+        ]
+    },
+    {
+        "name": "White Sneakers",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6a/White_Sneakers.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Portal",
+            "Clay Pot"
+        ]
+    },
+    {
+        "name": "Wolf Hat",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b7/Wolf_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fire Trap",
+            "Grey Block"
+        ]
+    },
+    {
+        "name": "Yellow Jersey",
+        "tier": 7,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a3/Yellow_Jersey.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Tile",
+            "Yard Lamp"
+        ]
+    },
+    {
+        "name": "Academic Hat",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d6/Academic_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bookshelf",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Armored Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9f/Armored_Background.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Studded Metal",
+            "Cave Wall"
+        ]
+    },
+    {
+        "name": "Arrow Sign",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/6d/Arrow_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bookshelf",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Bar Stool",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/43/Bar_Stool.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Platform",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "Baroque Bed",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1c/Baroque_Bed.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Antique Chair",
+            "Bed"
+        ]
+    },
+    {
+        "name": "Battle Gate",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/dd/Battle_Gate.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dungeon Door",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Black Bed",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/34/Black_Bed.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bed",
+            "Obsidian"
+        ]
+    },
+    {
+        "name": "Black Buzzcut",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/99/Black_Buzzcut.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brazier",
+            "Cactus Block"
+        ]
+    },
+    {
+        "name": "Black Fedora",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8b/Black_Fedora.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gravestone",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Black Skull T-shirt",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/14/Black_Skull_T-shirt.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gravestone",
+            "Torn Wallpaper"
+        ]
+    },
+    {
+        "name": "Black Torn Pants",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/89/Black_Torn_Pants.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wardrobe",
+            "Torn Wallpaper"
+        ]
+    },
+    {
+        "name": "Blue Metal Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7b/Blue_Metal_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Jelly",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Blue Spheres Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/52/Blue_Spheres_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Blue Big Tile",
+            "Dotted Pink Block"
+        ]
+    },
+    {
+        "name": "Book Podium",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/70/Book_Podium.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bookshelf",
+            "Wooden Chair"
+        ]
+    },
+    {
+        "name": "Boombox",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/15/Boombox.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gramophone",
+            "Circuit Board"
+        ]
+    },
+    {
+        "name": "Broken Ruin Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/09/Broken_Ruin_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Rocks",
+            "Torn Wallpaper"
+        ]
+    },
+    {
+        "name": "Broken Ruin Tiles",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/41/Broken_Ruin_Tiles.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Ruin Tiles",
+            "Lily"
+        ]
+    },
+    {
+        "name": "Castle Window",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e3/Castle_Window.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Glass Block"
+        ]
+    },
+    {
+        "name": "Cloud Platform",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/91/Cloud_Platform.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Shoji",
+            "Ice"
+        ]
+    },
+    {
+        "name": "Coal Block",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/95/Coal_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Hanging Leaves",
+            "Granite"
+        ]
+    },
+    {
+        "name": "Coffin",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/97/Coffin.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bed",
+            "Door"
+        ]
+    },
+    {
+        "name": "Dark Red Block",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0f/Dark_Red_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Jello Platform",
+            "Red Brick"
+        ]
+    },
+    {
+        "name": "Decorative Sword",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/ba/Decorative_Sword.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brazier",
+            "Dungeon Wall"
+        ]
+    },
+    {
+        "name": "Desktop PC",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e2/Desktop_PC.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Circuit Board",
+            "Microwave"
+        ]
+    },
+    {
+        "name": "Devil Mask",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7b/Devil_Mask.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Red Jelly"
+        ]
+    },
+    {
+        "name": "Diploma",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/49/Diploma.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Note Board",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Disco Ball",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/40/Disco_Ball.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Microwave",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Fire Extinguisher",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0a/Fire_Extinguisher.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Lantern",
+            "Fountain"
+        ]
+    },
+    {
+        "name": "Firefighter Hat",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/31/Firefighter_Hat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Chest",
+            "Brazier"
+        ]
+    },
+    {
+        "name": "Fishtank",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c3/Fishtank.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Fishbowl",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Flat Screen TV",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a4/Flat_Screen_TV.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Old TV",
+            "Circuit Board"
+        ]
+    },
+    {
+        "name": "Fridge",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/66/Fridge.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Cabinet",
+            "Ice"
+        ]
+    },
+    {
+        "name": "Glass Cabinet",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c9/Glass_Cabinet.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Tinted Window Frame",
+            "Cabinet"
+        ]
+    },
+    {
+        "name": "Glue Block",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d1/Glue_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Jelly",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Gothic Fireplace",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/55/Gothic_Fireplace.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Fireplace"
+        ]
+    },
+    {
+        "name": "Green Jersey",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/be/Green_Jersey.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pineapple Block",
+            "Green Jelly"
+        ]
+    },
+    {
+        "name": "Green Metal Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/79/Green_Metal_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Jelly",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Green Mohawk",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f3/Green_Mohawk.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Jelly",
+            "Spike Trap"
+        ]
+    },
+    {
+        "name": "Hanging Bat",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b0/Hanging_Bat.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Rubber Duck"
+        ]
+    },
+    {
+        "name": "Heart Decoration",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/65/Heart_Decoration.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Pink Jelly",
+            "Red Tile"
+        ]
+    },
+    {
+        "name": "Heavy Metal Poster",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d3/Heavy_Metal_Poster.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Classic Painting",
+            "Gargoyle"
+        ]
+    },
+    {
+        "name": "Ice Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/69/Ice_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": false,
+        "ingredients": []
+    },
+    {
+        "name": "Ice Platform",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/42/Ice_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Platform",
+            "Ice"
+        ]
+    },
+    {
+        "name": "Iron Fence",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9d/Iron_Fence.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Metal Plate"
+        ]
+    },
+    {
+        "name": "Kiddie Ride",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f6/Kiddie_Ride.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Platform",
+            "Rubber Duck"
+        ]
+    },
+    {
+        "name": "Large Diagonal Plating",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Large_Diagonal_Plating.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Studded Metal",
+            "Black Diagonal Checker"
+        ]
+    },
+    {
+        "name": "Light Blue Wallpaper",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0e/Light_Blue_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Jelly",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Maneki-nekoR",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/94/Maneki-nekoR.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gargoyle",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Marble Fireplace",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/12/Marble_Fireplace.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Brazier",
+            "Marble"
+        ]
+    },
+    {
+        "name": "Metal Trapdoor",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e9/Metal_Trapdoor.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Door",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Mirrorshades",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d4/Mirrorshades.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Tinted Glass Door",
+            "Starry Wallpaper"
+        ]
+    },
+    {
+        "name": "Mossy Ruin Tiles",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/55/Mossy_Ruin_Tiles.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Ruin Tiles",
+            "Grass"
+        ]
+    },
+    {
+        "name": "Pink Metal Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/67/Pink_Metal_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pink Jelly",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Pink Mittens",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4f/Pink_Mittens.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Pink Jelly",
+            "Oven"
+        ]
+    },
+    {
+        "name": "Poison Trap",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c4/Poison_Trap.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Gravestone",
+            "Fire Trap"
+        ]
+    },
+    {
+        "name": "Potted Plant",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a1/Potted_Plant.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Fishbowl",
+            "Soil Block"
+        ]
+    },
+    {
+        "name": "Red Dot Illusion",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/91/Red_Dot_Illusion.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Grey Dot Illusion",
+            "Red Glow Block"
+        ]
+    },
+    {
+        "name": "Red Metal Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/26/Red_Metal_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Red Jelly",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Retro Glasses",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c8/Retro_Glasses.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Block",
+            "Bookshelf"
+        ]
+    },
+    {
+        "name": "Ruin Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/98/Ruin_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Small Rocks",
+            "Torn Wallpaper"
+        ]
+    },
+    {
+        "name": "Safe",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/73/Safe.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Platform",
+            "Small Chest"
+        ]
+    },
+    {
+        "name": "Skull Block",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c7/Skull_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Brazier",
+            "Gravestone"
+        ]
+    },
+    {
+        "name": "Spotlight",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/32/Spotlight.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Hanging Leaves",
+            "Floor Lamp"
+        ]
+    },
+    {
+        "name": "Square Moire",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/44/Square_Moire.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Jail Background",
+            "Grey Dot Illusion"
+        ]
+    },
+    {
+        "name": "Stone Platform",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e8/Stone_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Metal Platform",
+            "Granite"
+        ]
+    },
+    {
+        "name": "TV Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/a0/TV_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bed",
+            "Armchair"
+        ]
+    },
+    {
+        "name": "Towel Cape",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/3e/Towel_Cape.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bed",
+            "Torn Wallpaper"
+        ]
+    },
+    {
+        "name": "Vortex Portal",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/16/Vortex_Portal.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Portal",
+            "Fishbowl"
+        ]
+    },
+    {
+        "name": "Waterbed",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9a/Waterbed.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bed",
+            "Water"
+        ]
+    },
+    {
+        "name": "Watermelon Block",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d7/Watermelon_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Cactus Block",
+            "Ice"
+        ]
+    },
+    {
+        "name": "White Ski Goggles",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7a/White_Ski_Goggles.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Tinted Glass Door",
+            "Ice"
+        ]
+    },
+    {
+        "name": "White Toga",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/93/White_Toga.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Torn Wallpaper",
+            "Classic Painting"
+        ]
+    },
+    {
+        "name": "Wirefence Background",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/42/Wirefence_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Studded Metal",
+            "Jungle Grass"
+        ]
+    },
+    {
+        "name": "Wooden Hatch",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/86/Wooden_Hatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Wooden Background",
+            "Dungeon Door"
+        ]
+    },
+    {
+        "name": "Yellow Metal Chair",
+        "tier": 8,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/14/Yellow_Metal_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Yellow Jelly",
+            "Metal Platform"
+        ]
+    },
+    {
+        "name": "Black Glass Tile",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/88/Black_Glass_Tile.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Glass Tile"
+        ]
+    },
+    {
+        "name": "Cat Decoration",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/ba/Cat_Decoration.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Kiwi Block",
+            "Maneki-nekoR"
+        ]
+    },
+    {
+        "name": "Coat Rack",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/87/Coat_Rack.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Fence",
+            "Wardrobe"
+        ]
+    },
+    {
+        "name": "Cobra Statue",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c5/Cobra_Statue.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Heavy Metal Poster",
+            "Jungle Grass"
+        ]
+    },
+    {
+        "name": "Cracked Pottery",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8f/Cracked_Pottery.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Rocks",
+            "Potted Plant"
+        ]
+    },
+    {
+        "name": "Disco Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2d/Disco_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Disco Ball",
+            "Windowframe"
+        ]
+    },
+    {
+        "name": "Dripping Blood",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8b/Dripping_Blood.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coffin",
+            "Rose"
+        ]
+    },
+    {
+        "name": "Electro Sphere",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1a/Electro_Sphere.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Poison Trap",
+            "Disco Ball"
+        ]
+    },
+    {
+        "name": "Evolverator",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e8/Evolverator.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Flat Screen TV",
+            "Microwave"
+        ]
+    },
+    {
+        "name": "FFM",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/29/FFM.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Maneki-nekoR",
+            "Old TV"
+        ]
+    },
+    {
+        "name": "Glass Platform",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/14/Glass_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Cabinet",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Glue Platform",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/06/Glue_Platform.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Glue Block",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Golden Bathtub",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/92/Golden_Bathtub.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bathtub",
+            "Marble Fireplace"
+        ]
+    },
+    {
+        "name": "Green Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f8/Green_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Green Block"
+        ]
+    },
+    {
+        "name": "Ham Radio",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e5/Ham_Radio.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Desktop PC",
+            "Gramophone"
+        ]
+    },
+    {
+        "name": "Level Hatch",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e8/Level_Hatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Hatch",
+            "Wire Fence"
+        ]
+    },
+    {
+        "name": "Light Blue Headscarf",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/7c/Light_Blue_Headscarf.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Light Blue Jelly",
+            "Fishbowl"
+        ]
+    },
+    {
+        "name": "Light Green Poncho",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4b/Light_Green_Poncho.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Watermelon Block",
+            "Heavy Metal Poster"
+        ]
+    },
+    {
+        "name": "Mayan Statue",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/ee/Mayan_Statue.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Maneki-nekoR",
+            "Sandstone"
+        ]
+    },
+    {
+        "name": "Metal Hatch",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/5b/Metal_Hatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Heavy Metal Poster",
+            "Iron Block"
+        ]
+    },
+    {
+        "name": "Metal Slant",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/da/Metal_Slant.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Fence",
+            "Shoji"
+        ]
+    },
+    {
+        "name": "Mirror Wardrobe",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f0/Mirror_Wardrobe.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wardrobe",
+            "Glass Cabinet"
+        ]
+    },
+    {
+        "name": "Open Sign",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/bc/Open_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Arrow Sign",
+            "Maneki-nekoR"
+        ]
+    },
+    {
+        "name": "Orange Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/d1/Orange_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Orange Block"
+        ]
+    },
+    {
+        "name": "Parrot Cage",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b0/Parrot_Cage.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Iron Fence",
+            "Fruit Tray"
+        ]
+    },
+    {
+        "name": "Password Portal",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/66/Password_Portal.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Portal",
+            "Safe"
+        ]
+    },
+    {
+        "name": "Pink Fedora",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2e/Pink_Fedora.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Dark Red Block",
+            "Bathtub"
+        ]
+    },
+    {
+        "name": "Purple Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/86/Purple_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Purple Block"
+        ]
+    },
+    {
+        "name": "Red Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/17/Red_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Ruin Pattern Block 1",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/c7/Ruin_Pattern_Block_1.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Beige Brick",
+            "Broken Ruin Background"
+        ]
+    },
+    {
+        "name": "Ruin Pattern Block 2",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8a/Ruin_Pattern_Block_2.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Broken Ruin Background"
+        ]
+    },
+    {
+        "name": "Ruin Slant",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/e/e0/Ruin_Slant.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Beige Brick",
+            "Ruin Background"
+        ]
+    },
+    {
+        "name": "Ruins Pillar",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/4d/Ruins_Pillar.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Broken Ruin Background",
+            "Hanging Leaves"
+        ]
+    },
+    {
+        "name": "Stained Glass Window",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/7/78/Stained_Glass_Window.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Glass Cabinet",
+            "Maneki-nekoR"
+        ]
+    },
+    {
+        "name": "Steel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/84/Steel_Block.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Marble Fireplace",
+            "Iron Fence"
+        ]
+    },
+    {
+        "name": "Stone Road Marker",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/d/de/Stone_Road_Marker.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Stone Platform",
+            "Sign"
+        ]
+    },
+    {
+        "name": "Stop Sign",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b7/Stop_Sign.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Arrow Sign",
+            "Red Block"
+        ]
+    },
+    {
+        "name": "Swing Chair",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/09/Swing_Chair.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Potted Plant",
+            "Red Jelly"
+        ]
+    },
+    {
+        "name": "Trash Can",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/28/Trash_Can.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Potted Plant",
+            "Dungeon Door"
+        ]
+    },
+    {
+        "name": "Turquoise Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/24/Turquoise_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Turquoise Block"
+        ]
+    },
+    {
+        "name": "Twisted Tree Pillar",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/c/ca/Twisted_Tree_Pillar.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Tree Trunk",
+            "Decorative Sword"
+        ]
+    },
+    {
+        "name": "VIP Hatch",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8f/VIP_Hatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "VIP Sign",
+            "Wooden Hatch"
+        ]
+    },
+    {
+        "name": "Vegetation Background",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/93/Vegetation_Background.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Vegetation Block",
+            "Large Bush"
+        ]
+    },
+    {
+        "name": "White Ceiling Lamp",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/aa/White_Ceiling_Lamp.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Disco Ball",
+            "Floor Lamp"
+        ]
+    },
+    {
+        "name": "White Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/8/8e/White_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "White Block"
+        ]
+    },
+    {
+        "name": "White Striped Wallpaper",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/3/38/White_Striped_Wallpaper.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Marble Fireplace",
+            "White Block"
+        ]
+    },
+    {
+        "name": "Wooden Trapdoor",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/f1/Wooden_Trapdoor.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Wooden Hatch",
+            "Wooden Platform"
+        ]
+    },
+    {
+        "name": "Yellow Fedora",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/0/0e/Yellow_Fedora.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Bar Stool",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Yellow Jewel Block",
+        "tier": 9,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/4/48/Yellow_Jewel_Block.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Coal Block",
+            "Yellow Block"
+        ]
+    },
+    {
+        "name": "Ancient Pressure Cooker",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/1/1f/Ancient_Pressure_Cooker.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Clay Pot",
+            "Steel Block"
+        ]
+    },
+    {
+        "name": "Donation Box",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/b/b8/Donation_Box.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Trash Can",
+            "Door"
+        ]
+    },
+    {
+        "name": "Golden Hot Tub",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/94/Golden_Hot_Tub.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Golden Cask",
+            "Golden Bathtub"
+        ]
+    },
+    {
+        "name": "Green Elastic Blob",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2f/Green_Elastic_Blob.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Jewel Block",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Green Glow Wire",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/a/aa/Green_Glow_Wire.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Green Neon Background",
+            "Open Sign"
+        ]
+    },
+    {
+        "name": "Level VIP Hatch",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/9/9a/Level_VIP_Hatch.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "VIP Hatch",
+            "Level Hatch"
+        ]
+    },
+    {
+        "name": "Orange Elastic Blob",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/2/2b/Orange_Elastic_Blob.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Jewel Block",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Orange Glow Wire",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/5/57/Orange_Glow_Wire.png/revision/latest",
+        "farmable": true,
+        "has_recipe": true,
+        "ingredients": [
+            "Orange Neon Background",
+            "Open Sign"
+        ]
+    },
+    {
+        "name": "Purple Elastic Blob",
+        "tier": 10,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/6/66/Purple_Elastic_Blob.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Purple Jewel Block",
+            "Mushroom"
+        ]
+    },
+    {
+        "name": "Plastic Block - Transparent",
+        "tier": 11,
+        "image": "https://static.wikia.nocookie.net/portalworldsgame/images/f/fd/Plastic_Block_-_Transparent.png/revision/latest",
+        "farmable": false,
+        "has_recipe": true,
+        "ingredients": [
+            "Ancient Pressure Cooker",
+            "Fluff"
+        ]
+    }
+]
