@@ -99,6 +99,11 @@ export default function AppShell({ recipes }: Props) {
             flatIngredients={flatIngredients}
             bottomIngredients={bottomIngredients}
             selected={selected}
+            recipes={recipes}
+            onSelectItem={(r) => {
+              setSelected(r)
+              setShowTree(true)
+            }}
           />
         ) : (
           <AllItemsView

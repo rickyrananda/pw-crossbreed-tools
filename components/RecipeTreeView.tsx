@@ -9,6 +9,8 @@ interface Props {
   flatIngredients: FlatIngredient[]
   bottomIngredients: FlatIngredient[]
   selected: Recipe
+  recipes: Recipe[]
+  onSelectItem: (r: Recipe) => void
 }
 
 const TIER_COLORS: Record<number, string> = {
@@ -27,6 +29,7 @@ function TreeNode({ node, qty, depth = 0, isLast = true }: {
   const totalQty = node.qty * qty
   const color = TIER_COLORS[node.tier] ?? '#6b7280'
   const isRoot = depth === 0
+
 
   return (
     <div className="flex flex-col items-center">
@@ -119,8 +122,12 @@ function TreeNode({ node, qty, depth = 0, isLast = true }: {
   )
 }
 
-export default function RecipeTreeView({ tree, qty, flatIngredients, bottomIngredients, selected }: Props) {
+export default function RecipeTreeView({ tree, qty, flatIngredients, bottomIngredients, selected, recipes, onSelectItem }: Props) {
 
+
+  const usedIn = recipes.filter(r =>
+    r.ingredients.includes(selected.name)
+  )
   return (
     <div className="p-6 max-w-5xl mx-auto space-y-10">
       {/* Header */}
@@ -290,6 +297,43 @@ export default function RecipeTreeView({ tree, qty, flatIngredients, bottomIngre
           </div>
         </div>
       </div>
+
+      {usedIn.length > 0 && (
+        <div>
+          <div className="flex items-center gap-3 mb-5">
+            <h2 className="text-white/70 text-sm font-mono font-medium tracking-widest uppercase">Used To Craft</h2>
+            <div className="flex-1 h-px bg-white/5" />
+            <span className="text-white/20 text-xs font-mono">{usedIn.length} recipes</span>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+            {usedIn.sort((a, b) => a.tier - b.tier).map((r) => (
+              <button
+                key={r.name}
+                onClick={() => onSelectItem(r)}
+                className="flex flex-col items-center gap-2 p-3 rounded-lg border border-white/8 bg-white/[0.02]">
+                <div className="w-10 h-10 flex items-center justify-center">
+                  {r.image ? (
+                    <img
+                      src={`/api/img?url=${encodeURIComponent(r.image)}`}
+                      alt={r.name}
+                      className="w-full h-full object-contain"
+                      style={{ imageRendering: 'pixelated' }}
+                      onError={(e) => { (e.target as HTMLImageElement).style.opacity = '0' }}
+                    />
+                  ) : (
+                    <div className="w-8 h-8 rounded bg-white/5" />
+                  )}
+                </div>
+                <p className="text-white/60 text-xs text-center leading-tight line-clamp-2">{r.name}</p>
+                <div className="flex items-center gap-1.5">
+                  <span className="text-xs font-mono" style={{ color: TIER_COLORS[r.tier] }}>T{r.tier}</span>
+                  {r.farmable && <div className="w-1.5 h-1.5 rounded-full bg-emerald-400/60" />}
+                </div>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   )
 }
